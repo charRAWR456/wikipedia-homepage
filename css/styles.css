@@ -20,5 +20,10 @@ h1 {
 
 .today{
   float:left;
-  width: 50%;
+  width: 45%;
+}
+
+.news {
+  float:right;
+  width: 45%;
 }
